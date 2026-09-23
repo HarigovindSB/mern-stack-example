@@ -1,1 +1,3 @@
-/*  /index.html  200
+/record/*  https://mern-stack-example-up0q.onrender.com/record/:splat  200!
+/record    https://mern-stack-example-up0q.onrender.com/record        200!
+/*         /index.html
